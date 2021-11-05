@@ -127,4 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
 Competition 1/data/
+Lab12/cifar-10-batches-py
+*.gz
