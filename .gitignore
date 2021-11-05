@@ -132,3 +132,4 @@ Competition 1/data/
 Lab12/cifar-10-batches-py
 Lab12/oregon_wildlife
 *.gz
+*.tfrecord
