@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 Competition 1/data/
-Lab12/cifar-10-batches-py
-Lab12/oregon_wildlife
+Lab12/Lab12-1/cifar-10-batches-py
+Lab12/Lab12-1/oregon_wildlife
 *.gz
 *.tfrecord
