@@ -135,3 +135,6 @@ Lab12/Lab12-1/oregon_wildlife
 *.tfrecord
 Lab12/Lab12-2/dataset/mscoco
 Lab12/Lab12-2/dataset/wikiart
+Lab12/Lab12-2/checkpoints_save_callbacks
+Lab12/Lab12-2/checkpoints_save_weights
+Lab12/Lab12-2/checkpoints_save_checkpoints
