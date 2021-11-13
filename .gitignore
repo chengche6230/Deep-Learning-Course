@@ -133,3 +133,5 @@ Lab12/Lab12-1/cifar-10-batches-py
 Lab12/Lab12-1/oregon_wildlife
 *.gz
 *.tfrecord
+Lab12/Lab12-2/dataset/mscoco
+Lab12/Lab12-2/dataset/wikiart
