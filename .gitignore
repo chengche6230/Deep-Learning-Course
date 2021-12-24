@@ -128,7 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-Competition 1/data/
 Lab12/Lab12-1/cifar-10-batches-py
 Lab12/Lab12-1/oregon_wildlife
 *.gz
@@ -141,3 +140,5 @@ Lab12/Lab12-2/checkpoints_save_checkpoints
 Lab12/Lab12-2/checkpoints
 
 Lab14/Lab14-2/imgs
+
+Lab17/movie_f
